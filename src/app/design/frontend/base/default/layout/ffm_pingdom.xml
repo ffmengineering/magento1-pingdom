@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Ffm_Pingdom extension
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/OSL-3.0
+ *
+ * @category       Ffm
+ * @package        Ffm_Pingdom
+ * @copyright      Copyright (c) FitForMe B.V. 2016
+ * @license        http://opensource.org/licenses/OSL-3.0 The Open Software License 3.0 (OSL-3.0)
+ */
+-->
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <block type="ffm_pingdom/page_html_head_rum" name="pingdom_rum" before="-" template="ffm_pingdom/page/html/head/rum.phtml"/>
+        </reference>
+    </default>
+</layout>

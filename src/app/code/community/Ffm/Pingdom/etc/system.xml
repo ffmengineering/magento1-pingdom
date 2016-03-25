@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+    <sections>
+        <pingdom translate="label" module="ffm_pingdom">
+            <label>Pingdom</label>
+            <tab>general</tab>
+            <sort_order>1000</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <rum translate="label" module="ffm_pingdom">
+                    <label>Real User Monitoring</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>10</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <account_id translate="label">
+                            <label>Account ID</label>
+                            <comment><![CDATA[ID shown in the include script <a href="http://i.imgur.com/ME48ZOm.png">http://i.imgur.com/ME48ZOm.png</a>]]></comment>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>10</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </account_id>
+                    </fields>
+                </rum>
+            </groups>
+        </pingdom>
+    </sections>
+</config>

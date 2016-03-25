@@ -1,0 +1,16 @@
+{
+    "name": "ffm/pingdom",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Adds realtime tracking tag to the webshop",
+    "homepage": "https://github.com/fitforme/magento1-pingdom",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+    },
+    "authors":[
+        {
+            "name":"Sander Mangel",
+            "email":"s.mangel@fitforme.nl"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+src/app/code/community/Ffm/Pingdom      app/code/community/Ffm/Pingdom
+src/app/etc/modules/Ffm_Pingdom.xml     app/etc/modules/Ffm_Pingdom.xml
+src/app/design/frontend/base/default/layout/ffm_pingdom.xml     app/design/frontend/base/default/layout/ffm_pingdom.xml
+src/app/design/frontend/base/default/template/ffm_pingdom       app/design/frontend/base/default/template/ffm_pingdom
