@@ -5,7 +5,7 @@
     "description": "Adds realtime tracking tag to the webshop",
     "homepage": "https://github.com/fitforme/magento1-pingdom",
     "require": {
-        "magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+        "magento-hackathon/magento-composer-installer": "*"
     },
     "authors":[
         {

@@ -19,7 +19,7 @@
 <config>
     <modules>
         <Ffm_Pingdom>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </Ffm_Pingdom>
     </modules>
     <global>
